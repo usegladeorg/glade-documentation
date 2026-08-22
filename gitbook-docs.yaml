@@ -1,0 +1,18 @@
+  # yaml-language-server: $schema=https://api.gitbook.com/gitbook-docs.yaml
+  $schema: https://api.gitbook.com/gitbook-docs.yaml
+  version: 1
+  
+  # Navigation is defined in ./SUMMARY.md, not here. The whole repository
+  # publishes as a single space; its sidebar follows the sections listed in
+  # SUMMARY.md, and the landing page is ./README.md.
+  site:
+    title: Glade Documentation
+    structure:
+      - type: space
+        key: space-docs
+        title: Glade Documentation
+        path: docs
+        default: true
+        content:
+          directory: .
+  
