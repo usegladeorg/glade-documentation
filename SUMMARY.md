@@ -26,3 +26,9 @@
 * [Spending rules](agents/spending-rules.md)
 * [Paying per request with x402](agents/pay-per-request.md)
 * [Live events](agents/live-events.md)
+
+## Architecture
+
+* [How the pieces fit together](architecture/how-it-fits-together.md)
+* [The onchain contracts](architecture/onchain-contracts.md)
+* [Security model](architecture/security-model.md)
