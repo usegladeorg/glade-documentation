@@ -19,6 +19,10 @@
 * [Your .glade name](guides/glade-names.md)
 * [Transaction history](guides/history.md)
 * [Adding funds](guides/topping-up.md)
+* [Where your money goes](guides/spending-overview.md)
+* [Notifications](guides/notifications.md)
+* [Tools for developers](guides/developer-tools.md)
+* [Preferences and account controls](guides/preferences.md)
 
 ## Agents
 
@@ -32,3 +36,20 @@
 * [How the pieces fit together](architecture/how-it-fits-together.md)
 * [The onchain contracts](architecture/onchain-contracts.md)
 * [Security model](architecture/security-model.md)
+
+## API reference
+
+* [Authenticating requests](reference/authentication.md)
+* [Accounts and balances](reference/accounts-api.md)
+* [Transfers](reference/transfers-api.md)
+* [Agents and policies](reference/agents-api.md)
+* [Webhooks](reference/webhooks-api.md)
+
+## Trust and compliance
+
+* [How we think about regulation](trust/regulation.md)
+* [Identity checks](trust/identity-checks.md)
+
+## Help
+
+* [Common questions](help/common-questions.md)
